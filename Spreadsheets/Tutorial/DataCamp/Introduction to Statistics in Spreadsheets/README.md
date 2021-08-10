@@ -1,0 +1,3 @@
+Course Description
+
+Statistics is the science that deals with the collection, analysis, and interpretation of data. Having a solid foundation in statistics will help you effectively work with your data to test hypotheses and uncover insights that can help solve your problems. This course is designed to give you that foundation in statistics. Using Spreadsheets functions, you'll dive into averages, distributions, hypothesis testing, and conclude the course by applying your newfound knowledge in a case study. Along the way, you'll work with a variety of datasets ranging from eBay auctions to train ridership to historical presidential approval ratings. Enjoy!
